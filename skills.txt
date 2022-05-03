@@ -1,0 +1,12 @@
+Theory
+Client-server
+HTTP
+selects
+Json, xml: structure
+API, Postman
+Dev Tools
+VPN
+Mobile testing
+Charles, Fiddler
+Python
+
